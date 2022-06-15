@@ -1,1 +1,1 @@
-# Google-Ana-Sayfas-n-Tasarlamak
+# Google-Ana-Sayfasini-Tasarlamak
